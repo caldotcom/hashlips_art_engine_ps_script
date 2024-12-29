@@ -3,3 +3,5 @@ This script allows you to generate art works right from photoshop.
 
 
 Keep in mind this script is experimental and still in development, but you can try it out in the meantime.
+
+Edited in 2024 by @caldotcom
